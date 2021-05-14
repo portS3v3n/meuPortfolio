@@ -1,12 +1,7 @@
-   #meuPortfolio
+   # Site Portfolio para publicação de projetos profissionais ou pessoais.
 
- - Projeto criado a partir de uma curso sobre Web Design da Udemy;
- - Tecnologias usadas foram;
- 
- 
- ### EcmaScript -> Bem basicão mesmo
- 
- ### Html
- 
- ### Css
+ - Projeto criado a partir de um curso sobre Web Design da Udemy
+ - JavaScript -> Bem basicão mesmo
+ - Html
+ - Css
  
